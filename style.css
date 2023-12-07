@@ -1,0 +1,236 @@
+#a{
+  text-align:center;
+  font-family:'Verdana';
+}
+#d{
+  display: block;
+  margin-left: 560px;
+  width: 15%;
+  position: fixed;
+  top: 0;
+  margin-top: 8px;
+}
+#e{
+  width: 100%;
+}
+#h{
+  float: left;
+  width: 23.33%;
+  padding: 100px;
+  margin-left: 10px;
+}
+#i{
+  float: left;
+  width: 23.33%;
+  padding: 100px;
+  margin-left: 90px;
+  
+}
+#j{
+  float: left;
+  width: 23.33%;
+  padding: 100px;
+  margin-left: 100px;
+  
+}
+#c{
+  width: 80%;
+  height: 1px;
+  background-color: black;
+}
+#g{
+  font-family: 'Corbel';
+  font-size: 18px;
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 80px;
+}
+#k{
+  width: 20%;
+  margin-left: 60px;
+}
+#l{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 3.5%; 
+}
+#m{
+  font-family: 'Calibri';
+  font-size: 16px;
+  font-weight: bold;  
+}
+#linha{
+  width: 3%; 
+  position: absolute;
+  left: 1px;
+  right: 180px;
+  top: 1px;
+}
+#capa{
+  position: absolute;
+  left: 660px;     
+  right: 540px;
+  width: 4%; 
+}
+.div1{
+  width: 100%;
+  background: #101010;
+  transition: width 0.7s;
+  position: absolute;
+  left: 1px;
+  right: 180px;
+  top: 1px;
+  opacity: 0.8;
+}
+.div1:hover {
+  width: 350px;
+  height: 550px;
+}
+#z{
+  transform: rotate(90deg);
+  width: 3%;
+  height: 1px;
+  background-color: black;
+  position: absolute;
+  left: 570px;
+  right: 630px;
+}
+*{
+  margin: 0 auto;
+  padding: 0;  
+  box-sizing: border-box;
+}
+.menu{
+  width: 1500px;
+  position: fixed;
+  top: 0;
+  list-style: none;
+  padding: 0;
+  background-color: white;
+  height: 10 px;
+  font-family: 'Bahnschrift';
+}
+.menu li{
+  display: inline;
+}
+.menu li a{
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+.menu li a:hover{
+  background-color: white;
+  color: grey;
+}
+#r{
+  text-align: center;
+  color: grey;
+  font-family:'Verdana';
+  font-size: 50%;
+}
+#album{
+  font-family: 'Bahnschrift';
+  margin-left: 405px;
+  color: #303030;
+}
+#mdt{
+  width: 20%;
+  position: absolute; 
+  left: 750px;
+}
+#x{
+  font-family: 'Bahnschrift';
+  font-size: 12px;
+  margin-left: 412px;
+  color: #303030;
+}
+#y{
+  font-family: 'Corbel';
+  font-size: 18px;
+  text-align: left;
+  margin-left: 350px;
+  margin-right: 80px;
+}
+#rbn{
+  width: 22%;
+  position: absolute; 
+  left: 350px;
+}
+#rbnl{
+  font-family: 'Bahnschrift';
+  margin-left: 850px;
+  color: #303030;
+}
+#rbnll{
+  font-family: 'Bahnschrift';
+  margin-left: 800px;
+  color: #303030;
+  font-size: 12px;
+}
+#rbnlll{
+  font-family: 'Bahnschrift';
+  margin-left: 810px;
+  color: #303030;
+  font-size: 9px;
+}
+#vampiro{
+  font-family: 'Bahnschrift';
+  margin-left: 450px;
+  color: #303030;
+}
+#disco{
+  text-align: center;
+  font-family: 'Bahnschrift';
+}
+#w{
+  font-family: 'Corbel';
+  font-size: 18px;
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 330px;
+}
+#ww{
+  width: 15%;
+  margin-right: 95px;
+}
+#banco{
+  font-family: 'Bahnschrift';
+  margin-left: 840px;
+  color: #303030;
+}
+#bancoo{
+  font-family: 'Bahnschrift';
+  margin-left: 822px;
+  color: #303030;
+  font-size: 12px;
+}
+#quer{
+  font-family: 'Bahnschrift';
+  margin-left: 440px;
+  color: #303030;
+}
+#quervoar{
+  font-family: 'Bahnschrift';
+  margin-left: 438px;
+  color: #303030;
+  font-size: 12px;
+}
+#morte{
+  font-family: 'Bahnschrift';
+  margin-left: 790px;
+  color: #303030;
+}
+#mortedo{
+  font-family: 'Bahnschrift';
+  margin-left: 830px;
+  color: #303030;
+  font-size: 12px;
+}
+#fim{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}

@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este é o meu projeto de um website, não responsivo, que conta a trajetória do artista "Matuê" criado com HTML e CSS. O site conta a história de Matheus Brasileiro Aguiar, conhecido como Matuê, e a sua trajetória ao "mainstream" do Brasil. Inlcui algumas interações com as fotos, que representam algumas de suas obras lançadas, levando o usuário diretamente à música, também inclui alguns web-players que mostram videoclipes gravados por Matuê. Criei um menu interativo que redireciona o usuário à página inicial do site, aos meios de contato e também ao canal do Youtube da gravadora de Matuê. Caso o usuário clique na imagem principal do menu, será redirecionado à página inicial do site.
+Este é o meu projeto de um website, não responsivo, que conta a trajetória do artista "Matuê", criado com HTML e CSS. O site conta a história de Matheus Brasileiro Aguiar, conhecido como Matuê, e a sua trajetória ao "mainstream" do Brasil. Inlcui algumas interações com as fotos, que representam algumas de suas obras lançadas, levando o usuário diretamente à música, também inclui alguns web-players que mostram videoclipes gravados por Matuê. Criei um menu interativo que redireciona o usuário à página inicial do site, aos meios de contato e também ao canal do Youtube da gravadora de Matuê. Caso o usuário clique na imagem principal do menu, será redirecionado à página inicial do site.
 
 ## Contexto e Ideia:
 
